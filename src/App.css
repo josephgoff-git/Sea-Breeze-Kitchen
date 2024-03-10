@@ -9,7 +9,7 @@
 }
 
 .app__bg {
-  background: url('https://seabreezekitchenblobs.blob.core.windows.net/blobs/cuttingboard.jpg');
+  background: url('https://aws1-bucket1-jg.s3.amazonaws.com/sea-breeze-kitchen/cuttingboard.jpg');
   /* background: url('./assets/bg.png'); */
   background-position: center;
   background-size: cover;
@@ -18,7 +18,7 @@
 }
 
 .app__about_bg {
-  background: url('https://seabreezekitchenblobs.blob.core.windows.net/blobs/wine-2.jpg');
+  background: url('https://aws1-bucket1-jg.s3.amazonaws.com/sea-breeze-kitchen/wine-2.jpg');
   /* background: url('./assets/about_bg.png'); */
   background-position: center;
   background-size: cover;
@@ -27,7 +27,7 @@
 }
 
 .app__bg3 {
-  background: url('https://seabreezekitchenblobs.blob.core.windows.net/blobs/cuttingboard3.jpg');
+  background: url('https://aws1-bucket1-jg.s3.amazonaws.com/sea-breeze-kitchen/cuttingboard3.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: repeat;
@@ -35,7 +35,7 @@
 }
 
 .app__bg4 {
-  background: url('https://seabreezekitchenblobs.blob.core.windows.net/blobs/blackmarble.jpg');
+  background: url('https://aws1-bucket1-jg.s3.amazonaws.com/sea-breeze-kitchen/blackmarble.jpg');
   /* background: url('./assets/blackmarble.png'); */
   background-position: center;
   background-size: cover;
@@ -44,7 +44,7 @@
 }
 
 .app__bg5 {
-  background: url('https://seabreezekitchenblobs.blob.core.windows.net/blobs/waterview2.jpg');
+  background: url('https://aws1-bucket1-jg.s3.amazonaws.com/sea-breeze-kitchen/waterview2.jpg');
   /* background: url('./assets/waterview.png'); */
   background-position: center;
   background-size: cover;
@@ -53,7 +53,7 @@
 }
 
 .app__bg_awards {
-  background: url('https://seabreezekitchenblobs.blob.core.windows.net/blobs/knives4.jpg');
+  background: url('https://aws1-bucket1-jg.s3.amazonaws.com/sea-breeze-kitchen/knives4.jpg');
   /* background: url('./assets/awards.png'); */
   background-position: center;
   background-size: cover;
